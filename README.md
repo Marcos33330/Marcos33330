@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola! Soy Marcos Rodriguez
 
-<!--
-**Marcos33330/Marcos33330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** - egresado de [4Geeks Academy](https://4geeksacademy.com) (2026)
 
-Here are some ideas to get you started:
+Montevideo, Uruguay - Ingles avanzado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Antes de programar pase mas de 5 anos en cocinas profesionales (panaderia, catering y restaurantes). De ahi traigo disciplina, trabajo en equipo y calma bajo presion - ahora las aplico a construir aplicaciones web.
+
+## Stack
+
+`JavaScript` `React` `HTML5` `CSS3` `Python` `Flask` `SQL` `Git & GitHub` `APIs REST` `Responsive Design`
+
+## Proyectos
+
+| Proyecto | Stack | Codigo |
+| --- | --- | --- |
+| Star Wars Blog - lista de lectura con favoritos | React, API REST | [Repo](https://github.com/Marcos33330/exercise-starwars-blog-reading-list) |
+| API REST con Flask | Python, Flask, SQLAlchemy | [Repo](https://github.com/4GeeksAcademy/flask-rest-marcos) |
+| Lista de Contactos | React, Context API | [Repo](https://github.com/4GeeksAcademy/lista-de-contactos-react-Marcos) |
+| Post de Instagram | HTML, CSS, Bootstrap | [Repo](https://github.com/4GeeksAcademy/post-de-instagram-con-bootstrap-marcos) |
+
+**Proyecto final del bootcamp en desarrollo (en equipo)** - proximamente aca.
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Rodriguez-blue?logo=linkedin)](https://www.linkedin.com/in/marcos-rodriguez-164259132/)
