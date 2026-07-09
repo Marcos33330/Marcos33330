@@ -14,10 +14,10 @@ Before coding I spent 5+ years in professional kitchens (bakery, catering and re
 
 | Project | Stack | Code |
 | --- | --- | --- |
-| JWT Authentication with Flask & React | Python, Flask, React, JWT | [Repo](https://github.com/4GeeksAcademy/Autenticacion-JWT-con-Flask-y-React-Marcos) |
+| JWT Authentication with Flask & React | Python, Flask, React, JWT | [Repo](https://github.com/4GeeksAcademy/Autenticaci-n-JWT-con-Flask-y-React.js-marcos) |
 | Star Wars Blog - reading list with favorites | React, REST API | [Repo](https://github.com/Marcos33330/exercise-starwars-blog-reading-list) |
 | REST API with Flask | Python, Flask, SQLAlchemy | [Repo](https://github.com/4GeeksAcademy/flask-rest-marcos) |
-| Todo List App | React | [Repo](https://github.com/4GeeksAcademy/Aplicacion-de-Todolist-usando-React-Marcos) |
+| Todo List App | React, Fetch API | [Repo](https://github.com/4GeeksAcademy/Aplicaci-n-de-Todolist-usando-React-y-Fetch-marcos) |
 | Contact List | React, Context API | [Repo](https://github.com/4GeeksAcademy/contact-list-marcos) |
 
 **Bootcamp final project in progress (team project)** - coming soon.
