@@ -1,6 +1,6 @@
 # Hi! I'm Marcos Rodriguez
 
-**Full Stack Developer** - [4Geeks Academy](https://4geeksacademy.com) graduate (2026)
+**Full Stack Developer** - [4Geeks Academy](https://4geeksacademy.com) Student (2026)
 
 Montevideo, Uruguay - Advanced English
 
